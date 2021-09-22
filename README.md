@@ -8,7 +8,7 @@ It also includes the amqp extension, which is currently not available through th
 Use the following line in your Dockerfile to start your build with this image:
 
 ```docker
-FROM "gigadrive/php-fpm-ready:8.0"
+FROM gigadrive/php-fpm-ready:8.0
 ```
 
 [Click here to visit the Docker Hub page](https://hub.docker.com/repository/docker/gigadrive/php-fpm-ready).
